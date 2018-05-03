@@ -22,11 +22,9 @@ ipywidgets==7.0.1
 itsdangerous==0.24
 jedi==0.11.0
 Jinja2==2.10
--e git+git@github.com:johnnzz/IntroPython-2017.git@78bee5c7c744f90604020984e6051574c98f3b9b#egg=json_save&subdirectory=solutions/metaprogramming/json_save
 jsonschema==2.6.0
 jupyter-client==5.2.3
 jupyter-core==4.4.0
--e git+git@github.com:johnnzz/IntroPython-2017.git@78bee5c7c744f90604020984e6051574c98f3b9b#egg=mailroom&subdirectory=students/johnn/mailroom
 MarkupSafe==1.0
 mistune==0.7.4
 nbconvert==5.3.1
